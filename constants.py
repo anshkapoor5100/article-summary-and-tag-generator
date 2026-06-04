@@ -1,4 +1,6 @@
 modelName = "mistral-medium-latest"
+
+
 systemPrompt = """
 You are an expert text analysis assistant.
 
